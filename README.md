@@ -9,3 +9,6 @@ One of my favorite projects was leading the creation of an internal data catalog
 Governance, for me, isn’t about control — quite the opposite. It’s about enabling smarter decisions, ensuring compliance (LGPD, NIST), and empowering teams with the right information at the right time.
 
 If you’re passionate about data governance, metadata management, or building a data-driven culture that actually sticks, let’s connect!
+
+
+![image](https://github.com/user-attachments/assets/0cc70a68-2b6f-4869-af82-68ebfb29b18b)
