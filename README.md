@@ -2,8 +2,10 @@
 
 I’m Jardel — a data nerd at heart with 14+ years working in data and 7+ years focused on data governance. I love helping companies make sense of their data, build solid foundations, and actually use their data to make better decisions.
 
-Over the years, I’ve led amazing teams, built cloud-based data lakes, automated pipelines, and rolled out governance programs that stick. I’ve worked with tools like Airflow, DBT, OpenMetadata, and Power BI, and I’m big on keeping things secure, compliant, and aligned with business goals (think DAMA, NIST, LGPD, and more).
+I specialize in bringing clarity and structure to messy data environments. That means defining data domains, setting up governance policies, establishing ownership, and making data more accessible, traceable, and trustworthy. I’ve worked with a range of governance tools — from open-source solutions like OpenMetadata, Apache Atlas, and Amundsen, to enterprise platforms like OneTrust, Informatica, and Collibra — even running proof-of-concepts to help companies find the right fit.
 
-I’m also passionate about creating a data-driven culture — from running workshops to collaborating across teams and turning complex problems into clear, actionable plans.
+One of my favorite projects was leading the creation of an internal data catalog powered by OpenMetadata — mapping lineage, classification, ownership, and turning metadata into something the entire company could use in their day-to-day work. That project eventually evolved into a full-scale data governance program covering multiple areas of the DAMA wheel: Data Quality, Data Modeling, Data Security, Data Integration, Document & Content Management, Reference & Master Data, Warehousing, Data Marts, and Business Intelligence. It became a robust framework for managing the full data lifecycle, supporting the development of scalable data lakes and lakehouses.
 
-If you’re into data, governance, tech leadership, or just want to swap stories about how to make messy data work better, let’s connect!
+Governance, for me, isn’t about control — quite the opposite. It’s about enabling smarter decisions, ensuring compliance (LGPD, NIST), and empowering teams with the right information at the right time.
+
+If you’re passionate about data governance, metadata management, or building a data-driven culture that actually sticks, let’s connect!
